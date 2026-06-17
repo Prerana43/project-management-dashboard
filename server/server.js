@@ -18,7 +18,7 @@ const app = express();
 app.use(
   cors({
     origin:
-      "https://project-management-dashboard-woad-tau.vercel.app/api",
+      "https://project-management-dashboard-woad-tau.vercel.app",
     credentials: true,
   })
 );

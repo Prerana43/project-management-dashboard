@@ -2,7 +2,7 @@ import axios from "axios";
 
 const API = axios.create({
   baseURL:
-    "https://project-management-dashboard-bqvv.onrender.com",
+    "https://project-management-dashboard-bqvv.onrender.com/api",
 });
 
 API.interceptors.request.use(
