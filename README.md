@@ -172,6 +172,19 @@ JWT_SECRET=your_secret_key
 
 ---
 
+## API Testing
+
+### User Login API
+
+![Login API](./screenshots/login-test-postman.png)
+
+---
+
+### Protected Profile Route
+
+![Profile API](./screenshots/protected-routes-test-with-token.png)
+
+---
 ### Admin Access
 
 ![Admin View](./screenshots/admin-view.png)
